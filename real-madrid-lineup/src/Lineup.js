@@ -15,6 +15,7 @@ const Lineup = () => {
     { name: 'Federico Valverde', position: 'Right Winger' },
     { name: 'Karim Benzema', position: 'Center Forward' },
     { name: 'Vinícius Júnior', position: 'Left Winger' },
+    { name: 'Rodrygo', position: 'Right Winger' },
   ]);
   const [showForm, setShowForm] = useState(false);
 
